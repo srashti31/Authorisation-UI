@@ -1,0 +1,49 @@
+.info-title {
+  font-weight: bold;
+}
+li {
+  padding-top: 0.5rem;
+}
+.description {
+  margin: 0.5rem auto 0 0;
+  font-size: 15.8px;
+  
+}
+
+.hr-detail:not(:last-child) {
+  margin-bottom: 2rem;
+}
+
+.hr-detail {
+  margin-top: 2rem;
+  width: 65vw;
+}
+
+.hr-popup {
+  width: 100%;
+}
+
+.hr-popup:not(:last-child) {
+  margin-bottom: 2rem;
+}
+
+.pannel-title > div:first-child {
+  color: #9e0830;
+  font-size: large;
+  font-weight: 500;
+}
+
+.data-list {
+  color: #9e0830;
+  font-size: large;
+  font-weight: 500;
+  display: flex;
+}
+
+.down-icon {
+  color: #9e0830;
+  margin-left: 1rem;
+}
+.web-link {
+  color: #9e0830;
+}

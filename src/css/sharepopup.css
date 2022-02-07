@@ -1,0 +1,60 @@
+.popup-container-content {
+  min-width: 70%;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 6px;
+  opacity: 1;
+  margin: auto;
+}
+
+.btn-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 2rem;
+  margin-top: -1rem;
+}
+
+.btn-wrapper > p {
+  color: black;
+  font-weight: 500;
+  font-size: large;
+}
+.btn-wrapper > div {
+  width: 20rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-cancel {
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 0.5rem 1.5rem;
+  height: 2rem;
+  box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.173);
+  border: 1px solid #707070;
+  border-radius: 4px;
+  background-color: #d3d3d3;
+  color: #000;
+}
+
+.btn-cancel:hover {
+  box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.btn-confirm {
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 0.5rem 1.5rem;
+  height: 2rem;
+  box-shadow: 2px 3px 6px #9d0830ab;
+  border: 1px solid #9d0830;
+  border-radius: 4px;
+  background-color: #b80909;
+  color: white;
+}
+
+.btn-confirm:hover {
+  box-shadow: 2px 3px 6px rgba(157, 8, 48, 0.562);
+}

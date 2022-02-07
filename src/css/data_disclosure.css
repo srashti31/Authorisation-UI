@@ -1,0 +1,92 @@
+.table-div{
+  width: 100%;
+}
+.data-disclosure-div{
+  width: 105.5%;
+    margin-left: -1.5rem;
+}
+.header-table{
+  /* height: 1rem; */
+    width: 100%;
+    margin-left: auto;
+}
+table, td, th {
+  border: 1px solid #cecece9a;
+  height: 2rem;
+}
+.data-Header{
+  background-color: #e9e9e9fd;
+  font-weight: bold;
+}
+
+.row-div {
+  font-size: 13px;
+  display: flex;
+}
+.row-tppName {
+  width: 145.5px;
+}
+.row-date{
+  width: 187px;
+}
+.row-keydates{
+  width: 191px;
+}
+.row-expiry{
+  width: 170px;
+}
+.row-status{
+  width: 115px;
+}
+.head-date{
+  width: 170px;
+}
+.head-status{
+  width: 100px;
+}
+.head-deatls{
+  width:96px;
+}
+.head-expiry{
+  width: 137px;
+}
+.head-request{
+  width: 128px;
+}
+.detail-table{
+      margin-top: -1rem;
+    width: 66.9rem;
+    margin-left: -1rem;
+    height: 8rem;
+}
+.details-row{
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+.row-heading-1{
+  width: 132px;
+}
+.row-heading-2{
+  width: 161px;
+}
+.row-heading-3{
+  width: 170px;
+  }
+  .row-heading-4{
+    width: 136px;
+  }
+  .empty-row{
+    background-color: lightgray;
+  }
+  .view-button{
+    border: none;
+    /* background-color: green; */
+    background-color: #e9e9e9fd;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 2.5rem;
+  }
+  .row-data{
+    background-color: #e9e9e9fd;
+  }

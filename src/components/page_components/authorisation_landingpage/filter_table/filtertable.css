@@ -1,0 +1,36 @@
+.filter-content {
+  margin-left: 895px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+}
+.filter-box {
+  height: 30px;
+}
+.filter-text {
+  margin-right: 15px;
+  margin-top: 6px;
+}
+.filter-option {
+  flex: 1;
+  height: 2rem;
+  width: 8rem;
+  font-size: 0.9rem;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #939292;
+  border-radius: 3px;
+  opacity: 1;
+}
+
+.filter-option:hover {
+  box-shadow: 1px 1px 5px #cecece;
+  cursor: pointer;
+}
+
+select option {
+  border: 1px solid #a8a8a8;
+}
+select option:hover {
+  background-color: gray;
+}

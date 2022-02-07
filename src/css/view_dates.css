@@ -1,0 +1,15 @@
+.viewdate{
+  width: 100%;
+  margin-left: 0px;
+  color: black;
+}
+.viewdate-head{
+  background-color: #cecece9a;
+  font-weight: bold;
+}
+.close-btn{
+  border: none;
+    background-color: white;
+    padding-left: 2rem;
+
+}

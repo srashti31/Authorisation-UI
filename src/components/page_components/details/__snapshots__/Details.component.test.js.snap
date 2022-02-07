@@ -1,0 +1,741 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Details /> should match snapshot 1`] = `
+<div>
+  <div
+    className="tpp-detail-page"
+  >
+    <div
+      className="detail-container"
+    >
+      <div
+        className=""
+      >
+        <div>
+          <span
+            className="detail-icon-container"
+          >
+            <img
+              alt="icon"
+              className="tpp-detail-icon"
+              src="https://www.flaticon.com/premium-icon/icons/svg/2696/2696470.svg"
+            />
+          </span>
+          <span
+            className="tpp-detail-name"
+          >
+            MoneyBee
+          </span>
+        </div>
+        <div
+          className="tpp-product-date"
+        >
+          <span>
+            Product:
+             
+          </span>
+          <span>
+            Budget tracker
+          </span>
+        </div>
+        <div
+          className="consent-tag-div"
+        >
+          <a
+            className="constent-tag"
+            href="/"
+          >
+            View customers confirmation of consent
+          </a>
+        </div>
+        <div
+          className="download-popup"
+        />
+      </div>
+      <div
+        className="tpp-detail-status-body"
+      >
+        <span
+          className="stop-sharing-span"
+        >
+          <button
+            className="btton-stop-sharing"
+            onClick={[Function]}
+          >
+            STOP SHARING
+          </button>
+        </span>
+        <span
+          className="tpp-detail-status-active"
+        >
+          ACTIVE
+        </span>
+      </div>
+    </div>
+    <p>
+      Data we're sharing
+    </p>
+    <div
+      className="MuiPaper-root paper-detail MuiPaper-outlined MuiPaper-rounded"
+    >
+      <div
+        className="MuiPaper-root MuiExpansionPanel-root MuiExpansionPanel-rounded MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <div
+          aria-disabled={false}
+          aria-expanded={false}
+          className="MuiButtonBase-root MuiExpansionPanelSummary-root pannel-title"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          <div
+            className="MuiExpansionPanelSummary-content"
+          >
+            Transaction details
+          </div>
+          <div
+            aria-disabled={false}
+            aria-hidden={true}
+            className="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role={null}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </span>
+          </div>
+        </div>
+        <div
+          className="MuiCollapse-container MuiCollapse-hidden"
+          style={
+            Object {
+              "minHeight": "0px",
+            }
+          }
+        >
+          <div
+            className="MuiCollapse-wrapper"
+          >
+            <div
+              className="MuiCollapse-wrapperInner"
+            >
+              <div
+                role="region"
+              >
+                <div
+                  className="MuiExpansionPanelDetails-root"
+                >
+                  <div>
+                    <div
+                      className="info-title"
+                    >
+                      What we are sharing
+                    </div>
+                    <ul>
+                      <li>
+                        Incoming and outgoing transactions
+                      </li>
+                      <li>
+                        Amounts
+                      </li>
+                      <li>
+                        Dates
+                      </li>
+                      <li>
+                        Description of transactions
+                      </li>
+                      <li>
+                        Who you’ve sent money to and received money from (e.g. their name, BSB, account number)
+                      </li>
+                    </ul>
+                    <hr
+                      className="hr-detail"
+                    />
+                    <div
+                      className="info-title"
+                    >
+                      Historical data we’ve shared
+                    </div>
+                    <div>
+                      <p>
+                        You have shared transaction data that dates back to 1st January 2017 .
+                      </p>
+                      <p>
+                        The recipient may or may not have collected data to this extent.
+                      </p>
+                    </div>
+                    <hr
+                      className="hr-detail"
+                    />
+                    <div
+                      className="info-title"
+                    >
+                      When we’ve shared your data
+                    </div>
+                    <div>
+                      <p>
+                        We ﬁrst shared your transaction details with MoneyBee on 3 July 2019
+                      </p>
+                      <p>
+                        We’ll continue to share this until 2 July 2020
+                      </p>
+                    </div>
+                    <hr
+                      className="hr-detail"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiPaper-root MuiExpansionPanel-root MuiExpansionPanel-rounded MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <div
+          aria-disabled={false}
+          aria-expanded={false}
+          className="MuiButtonBase-root MuiExpansionPanelSummary-root pannel-title"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          <div
+            className="MuiExpansionPanelSummary-content"
+          >
+            Direct debits and scheduled payments
+          </div>
+          <div
+            aria-disabled={false}
+            aria-hidden={true}
+            className="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role={null}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </span>
+          </div>
+        </div>
+        <div
+          className="MuiCollapse-container MuiCollapse-hidden"
+          style={
+            Object {
+              "minHeight": "0px",
+            }
+          }
+        >
+          <div
+            className="MuiCollapse-wrapper"
+          >
+            <div
+              className="MuiCollapse-wrapperInner"
+            >
+              <div
+                role="region"
+              >
+                <div
+                  className="MuiExpansionPanelDetails-root"
+                >
+                  <div>
+                    <div
+                      className="info-title"
+                    >
+                      What we’re collecting
+                    </div>
+                    <ul>
+                      <li>
+                        Direct debits
+                      </li>
+                      <li>
+                        Scheduled payments
+                      </li>
+                    </ul>
+                    <hr
+                      className="hr-detail"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiPaper-root MuiPaper-outlined MuiPaper-rounded"
+    >
+      <div>
+        <div
+          className="MuiPaper-root MuiExpansionPanel-root MuiExpansionPanel-rounded MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            aria-disabled={false}
+            aria-expanded={false}
+            className="MuiButtonBase-root MuiExpansionPanelSummary-root pannel-title"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <div
+              className="MuiExpansionPanelSummary-content"
+            >
+              Key dates
+            </div>
+            <div
+              aria-disabled={false}
+              aria-hidden={true}
+              className="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role={null}
+              tabIndex={null}
+            >
+              <span
+                className="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  />
+                </svg>
+              </span>
+            </div>
+          </div>
+          <div
+            className="MuiCollapse-container MuiCollapse-hidden"
+            style={
+              Object {
+                "minHeight": "0px",
+              }
+            }
+          >
+            <div
+              className="MuiCollapse-wrapper"
+            >
+              <div
+                className="MuiCollapse-wrapperInner"
+              >
+                <div
+                  role="region"
+                >
+                  <div
+                    className="MuiExpansionPanelDetails-root"
+                  >
+                    <div>
+                      <div
+                        className="info-title"
+                      >
+                        When you gave consent
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        3 July 2019
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                      <div
+                        className="info-title"
+                      >
+                        When your consent will expire
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        2 July 2020
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                      <div
+                        className="info-title"
+                      >
+                        Sharing Period
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        3 July 2019 - 2 July 2020
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                      <div
+                        className="info-title"
+                      >
+                        How often we share your data
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        We do this every time you log into MoneyBee's on Budget Tracker.
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          className="MuiPaper-root MuiExpansionPanel-root MuiExpansionPanel-rounded MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            aria-disabled={false}
+            aria-expanded={false}
+            className="MuiButtonBase-root MuiExpansionPanelSummary-root pannel-title"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <div
+              className="MuiExpansionPanelSummary-content"
+            >
+              Accounts
+            </div>
+            <div
+              aria-disabled={false}
+              aria-hidden={true}
+              className="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role={null}
+              tabIndex={null}
+            >
+              <span
+                className="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  />
+                </svg>
+              </span>
+            </div>
+          </div>
+          <div
+            className="MuiCollapse-container MuiCollapse-hidden"
+            style={
+              Object {
+                "minHeight": "0px",
+              }
+            }
+          >
+            <div
+              className="MuiCollapse-wrapper"
+            >
+              <div
+                className="MuiCollapse-wrapperInner"
+              >
+                <div
+                  role="region"
+                >
+                  <div
+                    className="MuiExpansionPanelDetails-root"
+                  >
+                    <div>
+                      <div
+                        className="info-title"
+                      >
+                        Everyday Accounts
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        000-123 1123 3323
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                      <div
+                        className="info-title"
+                      >
+                        Savings Account
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        000-123 7738 7383
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          className="MuiPaper-root MuiExpansionPanel-root MuiExpansionPanel-rounded MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            aria-disabled={false}
+            aria-expanded={false}
+            className="MuiButtonBase-root MuiExpansionPanelSummary-root pannel-title"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            <div
+              className="MuiExpansionPanelSummary-content"
+            >
+              Key additional information
+            </div>
+            <div
+              aria-disabled={false}
+              aria-hidden={true}
+              className="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role={null}
+              tabIndex={null}
+            >
+              <span
+                className="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  />
+                </svg>
+              </span>
+            </div>
+          </div>
+          <div
+            className="MuiCollapse-container MuiCollapse-hidden"
+            style={
+              Object {
+                "minHeight": "0px",
+              }
+            }
+          >
+            <div
+              className="MuiCollapse-wrapper"
+            >
+              <div
+                className="MuiCollapse-wrapperInner"
+              >
+                <div
+                  role="region"
+                >
+                  <div
+                    className="MuiExpansionPanelDetails-root"
+                  >
+                    <div>
+                      <div
+                        className="info-title"
+                      >
+                        Accreditation
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        MoneyBee is an accredited data recipient.You can check their accreditation at 
+                         
+                        <a
+                          className="web-link"
+                          href="/"
+                        >
+                          [website]
+                        </a>
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                      <img
+                        alt="icon"
+                        className="consumer-icon"
+                        src="../../images/consumer-data-right.png"
+                      />
+                      <div
+                        className="info-title"
+                      >
+                        Other important information
+                      </div>
+                      <div
+                        className="description"
+                      >
+                        There may be additional important information that is not shown here.Please check this sharing arrangement on the wesite/app.
+                         
+                      </div>
+                      <hr
+                        className="hr-detail"
+                      />
+                      <a
+                        className="see-all-providers"
+                        href="/"
+                      >
+                        See list of providers
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

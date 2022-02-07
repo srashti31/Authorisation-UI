@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterTable Component should match snapshot 1`] = `
+<div
+  className="filter-content"
+>
+  <div
+    className="filter-text"
+  >
+    Filter:
+  </div>
+  <div
+    className="filter-box"
+  >
+    <select
+      className="filter-option"
+      onChange={[Function]}
+    >
+      <option
+        value="ALL"
+      >
+        All
+      </option>
+      <option
+        value="Active"
+      >
+        Active
+      </option>
+      <option
+        value="Inactive"
+      >
+        Inactive
+      </option>
+    </select>
+  </div>
+</div>
+`;

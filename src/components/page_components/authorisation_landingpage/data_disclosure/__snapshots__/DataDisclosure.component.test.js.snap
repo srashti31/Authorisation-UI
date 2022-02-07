@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DataDisclosure /> should match snapshot 1`] = `
+<div
+  className="data-disclosure-div"
+>
+  <table
+    className="header-table"
+  >
+    <thead
+      className="data-Header"
+    >
+      <td
+        className="head-tpp"
+      >
+        Organisation
+      </td>
+      <td
+        className="head-consentGranted"
+      >
+        Consent granted
+      </td>
+      <td
+        className="head-date"
+      >
+        Last date data requested
+      </td>
+      <td
+        className="head-expiry"
+      >
+        Consent expiry
+      </td>
+      <td
+        className="head-status"
+      >
+        Status
+      </td>
+      <td
+        className="head-deatls"
+      >
+        Details
+      </td>
+      <td
+        className="head-request"
+      >
+        Request Breakdown
+      </td>
+    </thead>
+  </table>
+</div>
+`;

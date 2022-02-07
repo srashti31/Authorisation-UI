@@ -1,0 +1,51 @@
+.customer-info {
+    border: solid 0.5px grey;
+    height: 7rem;
+    border-bottom: solid 5px rgb(158, 8, 8);
+}
+.customer-name {
+    font-size: 35px;
+    text-align: left;
+    margin-left: 1rem;
+    margin-top: 0.8rem;
+}
+.customer-id {
+    font-size: 18px;
+    text-align: left;
+    margin-left: 1rem;
+    font-style: italic;
+    margin-top: 0.4rem;
+}
+.nav-bar{
+     margin-top: 1rem;
+    text-align: left;
+    border-bottom: solid 1.1px grey;
+    height: 2rem;
+}
+
+.tabs-text{
+font-size: 12px;
+font-style: italic;
+}
+
+.table-search-input {
+    margin-top: 15px;
+    border: 1px solid #939292;
+    border-radius: 4px;
+    opacity: 1;
+    width: 98.5%;
+    height: 2rem;
+    padding-left: 1rem;
+    margin-bottom: -12px;
+}
+.table-search-box:hover {
+  box-shadow: 1px 1px 5px #cecece;
+}
+.Mui-selected {
+    background-color: #b44d4d;
+}
+.download-popup-mainpage{
+    margin-left: 29rem;
+    margin-top: -4.5rem;
+    margin-right: 2rem;
+}
